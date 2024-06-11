@@ -4,7 +4,7 @@
 Đây là một dự án web đơn giản để hiển thị danh sách các sản phẩm túi sách của một cửa hàng. Dự án này được xây dựng bằng HTML, CSS và JavaScript.
 
 ## Cài đặt
-Không cần cài đặt gì cả. Chỉ cần mở file `index.html` trong trình duyệt web của bạn để xem trang web.
+Không cần cài đặt gì cả. Chỉ cần mở file `main.html` trong trình duyệt web của bạn để xem trang web.
 
 ## Sử dụng
 Trang web sẽ hiển thị danh sách các sản phẩm túi sách mà cửa hàng có. Bạn có thể nhấp vào từng sản phẩm để xem chi tiết hoặc thực hiện các thao tác khác tùy theo yêu cầu của dự án.
